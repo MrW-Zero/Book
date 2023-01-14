@@ -7,6 +7,7 @@ import java.sql.SQLException;
 public interface UserDao {
 
 
+    // .......
     /**
      * 根据用户名查询user对象
      * @param username 用户名
