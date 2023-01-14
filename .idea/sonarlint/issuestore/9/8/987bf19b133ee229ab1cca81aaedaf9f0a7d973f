@@ -1,0 +1,8 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÉüÃÍ
+I
+java:S2755"3Disable access to external entities in XML parsing.(ÄùÙî
+I
+java:S2755+"3Disable access to external entities in XML parsing.(©›ï
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(µèéğ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÜÚ²Ïúÿÿÿÿ
